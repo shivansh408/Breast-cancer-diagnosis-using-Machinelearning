@@ -1,5 +1,7 @@
 # Breast-cancer-diagnosis-using-Machinelearning
 
+Predicted the malignancy of breast tumors by analyzing breast tissue samples, applying feature synthesis techniques to accurately classify tumors as cancerous (malignant) or non-cancerous (benign).
+
 
 <img width="100%" alt="b1" src="https://user-images.githubusercontent.com/76674380/231700577-46e28aeb-0311-46c1-a5a3-936eb404b681.png">
 
